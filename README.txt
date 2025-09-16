@@ -2,8 +2,7 @@ AIworld — README
 =================
 
 Files created:
-- AIworld_index.html   (the site; rename to index.html if you like)
-- sample_data.json     (example JSON to place as data.json)
+- index.html   (the site; rename to index.html if you like)
 - README.md            (this file)
 
 How to "club" your Perplexity JSON + Gemini images into this site
@@ -11,7 +10,6 @@ How to "club" your Perplexity JSON + Gemini images into this site
 1) Folder structure (recommended - place all files in one project folder):
    /AIworld/
      index.html              <- move or rename AIworld_index.html to index.html
-     data.json               <- your Perplexity JSON (or use sample_data.json and rename)
      /images/
        hero.png              <- hero image generated from Gemini
        logo.png              <- logo from Gemini
